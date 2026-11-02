@@ -1,0 +1,7 @@
+Input data rows: 2995
+Output data rows: 2995
+Output columns: 8
+Rows needing manual review: 2
+
+CSV line 1274: German spelling reconstructed from split field: Tabelle
+CSV line 1495: Missing Plural field; inserted blank
